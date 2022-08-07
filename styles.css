@@ -1,0 +1,31 @@
+/*who{what: how;}*/
+
+body  {
+    background-color: #FAEA48;
+    text-align: LEFT;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 10%
+}
+
+h1 {
+  color: #3330E4;
+}
+
+h3 {
+  color: #F637EC;
+}
+
+.picture{
+  border-radius: 100%;
+}
+
+/*to select certain portions of code, add "class" in the html, target in css via ".class-name".
+can be applied multiple times on page
+can have several calsses/page
+*/
+/*Id goes in html, target in css via "#Id-name". Id can only be applied once per Id-name*/
